@@ -1,0 +1,64 @@
+<resources>
+    <string name="app_name">Seminario</string>
+
+
+    <string name="title_home">Registro</string>
+    <string name="title_dashboard">Presentación</string>
+    <string name="title_notifications">Estilo</string>
+    <string name="resultados">Resultados</string>
+
+    <string name="registro">Registro de expositor</string>
+    <string name="fondo_presentacion">Fondo de presentación</string>
+    <string name="estilo_presentacion">Estilo de presentación</string>
+    <string name="resultados_obtenidos">Resultados</string>
+    <string name="expositor">Expositor</string>
+    <string name="evaluador">Evaluador</string>
+    <string name="asesor">Asesor</string>
+    <string name="maestr_a">Maestría</string>
+    <string name="doctorado">Doctorado</string>
+    <string name="guardar">Guardar</string>
+    <string name="fecha">Fecha</string>
+
+    <string-array name="maestria">
+
+        <item>Protocolo</item>
+        <item>Culminación</item>
+
+    </string-array>
+
+    <string-array name="doctorado">
+
+        <item>Protocolo</item>
+        <item>Avance</item>
+        <item>Culminación</item>
+
+    </string-array>
+
+    <string-array name="puntaje_presentacion">
+
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+
+    </string-array>
+
+    <string-array name="puntaje_estilo">
+
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+
+    </string-array>
+
+</resources>

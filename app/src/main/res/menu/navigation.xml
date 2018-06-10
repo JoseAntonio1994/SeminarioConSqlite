@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nav_registro"
+        android:icon="@drawable/ic_registro"
+        android:title="@string/title_home"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/nav_presentacion"
+        android:icon="@drawable/ic_presentacion"
+        android:title="@string/title_dashboard"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/nav_estilo"
+        android:icon="@drawable/ic_estilo"
+        android:title="@string/title_notifications"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/nav_resultado"
+        android:icon="@drawable/ic_resultados"
+        android:title="@string/resultados"
+        app:showAsAction="ifRoom" />
+
+</menu>
